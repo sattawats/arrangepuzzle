@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.157d3def.chunk.css",
-    "main.js": "/static/js/main.bc049d88.chunk.js",
-    "main.js.map": "/static/js/main.bc049d88.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.320aba7c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.320aba7c.js.map",
-    "static/css/2.67123b20.chunk.css": "/static/css/2.67123b20.chunk.css",
-    "static/js/2.cebe2aea.chunk.js": "/static/js/2.cebe2aea.chunk.js",
-    "static/js/2.cebe2aea.chunk.js.map": "/static/js/2.cebe2aea.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f8983d338cc5ab3078ab1599dc4ae55f.js": "/precache-manifest.f8983d338cc5ab3078ab1599dc4ae55f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.157d3def.chunk.css.map": "/static/css/main.157d3def.chunk.css.map",
-    "static/js/2.cebe2aea.chunk.js.LICENSE.txt": "/static/js/2.cebe2aea.chunk.js.LICENSE.txt"
+    "main.css": "/arrangepuzzle/static/css/main.157d3def.chunk.css",
+    "main.js": "/arrangepuzzle/static/js/main.95d81ed4.chunk.js",
+    "main.js.map": "/arrangepuzzle/static/js/main.95d81ed4.chunk.js.map",
+    "runtime-main.js": "/arrangepuzzle/static/js/runtime-main.068896f1.js",
+    "runtime-main.js.map": "/arrangepuzzle/static/js/runtime-main.068896f1.js.map",
+    "static/css/2.67123b20.chunk.css": "/arrangepuzzle/static/css/2.67123b20.chunk.css",
+    "static/js/2.cebe2aea.chunk.js": "/arrangepuzzle/static/js/2.cebe2aea.chunk.js",
+    "static/js/2.cebe2aea.chunk.js.map": "/arrangepuzzle/static/js/2.cebe2aea.chunk.js.map",
+    "index.html": "/arrangepuzzle/index.html",
+    "precache-manifest.49ded4c98bc90430ba18e0ab92bb8305.js": "/arrangepuzzle/precache-manifest.49ded4c98bc90430ba18e0ab92bb8305.js",
+    "service-worker.js": "/arrangepuzzle/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/arrangepuzzle/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.157d3def.chunk.css.map": "/arrangepuzzle/static/css/main.157d3def.chunk.css.map",
+    "static/js/2.cebe2aea.chunk.js.LICENSE.txt": "/arrangepuzzle/static/js/2.cebe2aea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.320aba7c.js",
+    "static/js/runtime-main.068896f1.js",
     "static/css/2.67123b20.chunk.css",
     "static/js/2.cebe2aea.chunk.js",
     "static/css/main.157d3def.chunk.css",
-    "static/js/main.bc049d88.chunk.js"
+    "static/js/main.95d81ed4.chunk.js"
   ]
 }
